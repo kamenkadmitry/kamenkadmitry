@@ -4,7 +4,7 @@
 
 21 years in tech and business - 8 in software engineering and IT management, 13 in B2B sales and commercial leadership. Currently CTO running a 53-engineer organization (3 teams: Mobile, Integrations, Full-stack/Backend) across Media, E-commerce, SaaS and Fintech products. Former Commercial Director - scaled revenue to $2M/yr with a 70+ store EU retail network and 26 exclusive distributors.
 
-Together with my partner I run **[ГлавAI](https://glavai.ru)** - a development studio building custom software and AI agents for businesses, and helping teams actually adopt them.
+I also run a software development studio - custom software and AI agents for SMBs, with adoption support for client teams.
 
 ## What I build
 
