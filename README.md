@@ -13,10 +13,19 @@ I also run a software development studio - custom software and AI agents for SMB
 - **Business systems** - consolidated finance ledgers, sales workspaces, customs-code classifiers, quoting automation
 - **Teams** - built 2 engineering orgs from scratch; 0% turnover with 100% key-engineer retention; spec-first process, ADR-governed (100+ documented decisions)
 
+## Featured: [Company OS](https://github.com/kamenkadmitry/team_os)
+
+An agent-assisted operating system for a company, designed spec-first: domain specifications and implementation plans before code.
+
+- **9 subsystem specs** - Organization, Meeting, Decision, Commitment, Risk, Knowledge, and Digest managers, plus runtime adapters and a CLI
+- **Agent runtime** - event-driven model where agents act on structured company objects and produce auditable records
+- **Spec-first process** - 13 implementation plans written only after spec review; TDD-sized tasks, exact file paths, verification commands
+- **Quality by design** - security & Git governance model, mutation-testing CI to verify test quality itself
+
 ## Selected work
 
 - **Alters Core** - agentic business-application platform: agent protocol, runner, AI-model management, skills/plugins, document extraction, multi-app hosting
-- **VedAgent** - TN VED customs-code & duty assistant: deterministic rules first, LLM fallback, golden-set regression tests
+- **VedAgent** - customs-code & duty assistant: deterministic rules first, LLM fallback, golden-set regression tests
 - **AI sales platform** - client request (PDF) to structured line items, discontinued-part analog matching, draft proposals: 3-7 days to hours
 - **Financial systems** - one consolidated ledger across entities: restaurant chain (6 sources → 5 legal entities → 19 locations), manufacturer owner cockpit
 - **Alters** - conversational AI companion: multi-day dialogue programs, TTS voice-markup pipeline, agentic workflows
@@ -29,11 +38,11 @@ I also run a software development studio - custom software and AI agents for SMB
 | [ai_assist_content](https://github.com/kamenkadmitry/ai_assist_content) | Alters companion - Telegram bot with an AI curator, pluggable multi-day programs (PostgreSQL, Redis, Celery) |
 | [tgparser](https://github.com/kamenkadmitry/tgparser) | Telegram content pipeline - source discovery, classification, AI drafts, dedup, scheduling, publishing |
 | [tabarium](https://github.com/kamenkadmitry/tabarium) | Local-first tab & session manager for Chromium - no account, no server, optional BYO AI key |
-| [team_os](https://github.com/kamenkadmitry/team_os) | Company OS - architecture & specs for an agent-assisted company operating system |
 | [pitwall-win](https://github.com/kamenkadmitry/pitwall-win) | Maintained Windows port of pitwall - desktop terminal for coding agents |
+| [skill_and_mcp](https://github.com/kamenkadmitry/skill_and_mcp) | My AI tooling snapshot - 80 agent skills, 295 agents, MCP server configs |
 
 ## Stack
 
 Node.js/TypeScript · Go · Python · C# · React · PostgreSQL · Redis · Docker/Kubernetes · AWS/GCP/Azure · LLM orchestration · RAG · MCP · agent protocols & runners
 
-📫 **[LinkedIn](https://www.linkedin.com/in/kamenkadmitry/)** · **[glavai.ru](https://glavai.ru)**
+📫 **[LinkedIn](https://www.linkedin.com/in/kamenkadmitry/)**
